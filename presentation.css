@@ -1,0 +1,16 @@
+.fond {
+    background-color: skyblue; 
+
+}
+
+/*
+La première classe est pour changer la couleur du fond du site
+*/
+
+.cent {
+    text-align: center;
+}
+
+/*
+Pour alligner le titre de la page au centre
+*/
